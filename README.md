@@ -1,4 +1,4 @@
-# Motioncut_Project_2
+# Registration_form
 
 REGISTRATION FORM [LIVE](https://karthi0-7.github.io/Registration_form/)
 
